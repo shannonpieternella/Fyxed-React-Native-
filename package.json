@@ -1,0 +1,52 @@
+{
+  "name": "fyxed",
+  "version": "1.0.5",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo-google-fonts/poppins": "^0.2.2",
+    "@expo/vector-icons": "^12.0.5",
+    "@react-native-async-storage/async-storage": "^1.16.1",
+    "@react-native-picker/picker": "^2.3.0",
+    "@react-navigation/bottom-tabs": "^6.2.0",
+    "@react-navigation/native-stack": "^6.5.0",
+    "axios": "^0.26.0",
+    "expo": "~44.0.0",
+    "expo-app-loading": "^1.3.0",
+    "expo-constants": "^13.0.2",
+    "expo-notifications": "^0.14.1",
+    "expo-status-bar": "~1.2.0",
+    "expo-updates": "~0.11.6",
+    "expo-web-browser": "^10.1.1",
+    "firebase": "^9.6.9",
+    "native-base": "^3.3.4",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-alert-notification": "^0.2.2",
+    "react-native-element-dropdown": "^1.6.3",
+    "react-native-elements": "^3.4.2",
+    "react-native-gifted-chat": "^0.16.3",
+    "react-native-imaged-carousel-card": "^0.1.1",
+    "react-native-responsive-fontsize": "^0.5.1",
+    "react-native-responsive-screen": "^1.4.2",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-star-rating": "^1.1.0",
+    "react-native-svg": "12.1.1",
+    "react-native-web": "0.17.1",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}

@@ -1,0 +1,18 @@
+{
+    "cli": {
+      "version": ">= 0.34.0"
+    },
+    "submit": {
+      "production": {
+        "android": {
+          "serviceAccountKeyPath": "./google-services.json",
+          "track": "internal"
+        },
+        "ios": {
+          "appleId": "fyxed2022@gmail.com",
+          "ascAppId": "1618106536",
+          "appleTeamId": "9CRXHRUD62"
+        }
+      }
+    }
+  }

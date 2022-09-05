@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346364400937",
+    "project_id": "fyxedbvpush",
+    "storage_bucket": "fyxedbvpush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346364400937:android:d7e8065ed2cd12de751338",
+        "android_client_info": {
+          "package_name": "com.fyxed.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346364400937-gip30dp968uvrd81qmt49ssmcginu4d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAejOtTJD5jxDDjBHuNPP9l1yZt6_AyGAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346364400937-gip30dp968uvrd81qmt49ssmcginu4d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

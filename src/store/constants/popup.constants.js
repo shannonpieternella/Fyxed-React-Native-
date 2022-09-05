@@ -1,0 +1,12 @@
+export const DATE_CHANGE = 'DATE_CHANGE';
+export const MINT_DATE = 'MINT_DATE';
+export const REVEAL_DATE = 'REVEAL_DATE';
+export const CHECKBOX_TWO = 'CHECKBOX_TWO';
+export const CHECKBOX_ONE = 'CHECKBOX_ONE';
+export const TIME_ZONE = 'TIME_ZONE';
+export const REVEAL_POPUP = 'REVEAL_POPUP';
+export const MINT_POPUP = 'MINT_POPUP';
+export const MINT_PICKER = 'MINT_PICKER';
+export const REVEAL_PICKER = 'REVEAL_PICKER';
+export const MODAL_USER = 'MODAL_USER';
+export const VISIBLE_MODAL = 'VISIBLE_MODAL';

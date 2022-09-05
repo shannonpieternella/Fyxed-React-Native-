@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Fyxed",
+    "slug": "Fyxed",
+    "version": "1.0.5",
+    "orientation": "portrait",
+    "icon": "./assets/appstore.png",
+    "splash": {
+      "image": "./assets/Splashfyxed.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier":"com.fyxed.ios"
+    },
+    "android": {
+      "permissions" : [],
+      "package": "com.fyxed.android",
+      "versionCode": 6,
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/playstore.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/playstore.png"
+    }
+  }
+}
